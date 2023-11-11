@@ -14,4 +14,7 @@ Algorithms used :
 3. Random Forest Regressor
 
 
-
+Team Members :
+1. Thamaine Gangiah    220013396
+2. Yadhasia Govender   220009699
+3. Pashlene Naidoo     220016788
